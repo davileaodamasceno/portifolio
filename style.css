@@ -1,0 +1,8 @@
+#fundo {
+    text-align: center;
+    /* Adicionar um fundo usando https://cssgradient.io/ */
+    background: rgb(63,251,164);
+background: radial-gradient(circle, rgba(63,251,164,1) 0%, rgba(70,110,252,1) 100%);
+    /* Alterar a cor da letra */
+    color: black;
+}
